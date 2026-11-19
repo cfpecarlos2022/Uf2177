@@ -1,0 +1,5 @@
+Situación: Una tienda de informática quiere calcular el precio final de un producto después de aplicar un descuento.
+
+Vamos a crear dos clases: Principal y Producto.
+
+El objetivo es crear un método que reciba el precio y el descuento, realice el cálculo y devuelva el resultado para poder utilizarlo desde otra clase.
