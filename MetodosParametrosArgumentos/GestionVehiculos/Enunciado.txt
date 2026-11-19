@@ -1,0 +1,4 @@
+Ejemplo práctico: Tienda de vehículos (dos clases)
+Vamos a crear un programa para una tienda de vehículos. Tendremos dos clases: Principal y Vehiculo.
+
+El objetivo es crear un método en una clase y llamarlo desde otra, utilizando métodos, parámetros y argumentos.
