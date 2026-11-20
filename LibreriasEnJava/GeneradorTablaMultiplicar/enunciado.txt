@@ -1,0 +1,9 @@
+Vamos a crear un ejemplo sencillo en Java que integre todos estos conceptos:
+1. Scanner: para introducir datos por teclado.
+2. Dos clases: Principal y TablaMultiplicar.
+3. Método: para realizar una operación.
+4. Parámetro: variable que recibe el método.
+5. Argumento: dato que enviamos al método.
+6. Bucle for: para repetir una operación varias veces.
+Ejemplo: Generador de tablas de multiplicar
+El programa pedirá al usuario un número y mostrará su tabla de multiplicar del 1 al 10.
