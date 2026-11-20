@@ -1,0 +1,2 @@
+Ejemplo paso a paso en Java: Scanner, try-catch y estructura condicional
+Vamos a crear un programa que solicite al usuario su edad y compruebe si es mayor o menor de edad.
