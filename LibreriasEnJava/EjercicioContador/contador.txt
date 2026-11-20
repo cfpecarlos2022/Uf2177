@@ -1,0 +1,10 @@
+Actividad: Contador de números
+Enunciado:
+
+Crea un programa en Java que solicite al usuario un número entero mediante teclado. El programa deberá utilizar un método llamado contador(), que recibirá el número introducido como parámetro y mostrará todos los números desde el 1 hasta el número indicado.
+
+Para realizar el ejercicio, deberás crear dos clases: Principal y Contador. En la clase Principal utilizarás Scanner para solicitar el número, crearás un objeto de la clase Contador y llamarás al método contador(), enviándole el número introducido como argumento.
+
+En la clase Contador, el método contador() utilizará un bucle for para mostrar los números.
+
+Salida por pantalla (ejemplo):
