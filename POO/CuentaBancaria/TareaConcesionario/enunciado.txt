@@ -1,0 +1,2 @@
+Ejemplo: Clase Coche
+Vamos a crear un programa que represente un coche. El coche tendrá una propiedad que indicará si está arrancado o apagado.
