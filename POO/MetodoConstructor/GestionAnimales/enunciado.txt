@@ -1,0 +1,28 @@
+Ejercicio práctico: Creación de una clase Perro en Java
+Enunciado:
+
+Crea un proyecto Java en NetBeans que permita gestionar información básica de perros utilizando programación orientada a objetos.
+
+El programa estará formado por dos clases: Perro y Principal.
+
+Requisitos del ejercicio:
+1. Crea una clase llamada Perro.
+2. Declara dos atributos:
+   - nombre de tipo String.
+   - edad de tipo int.
+3. Crea un constructor que reciba el nombre y la edad del perro.
+4. Utiliza la palabra clave this para asignar los valores recibidos a los atributos de la clase.
+5. Crea un método llamado mostrarInformacion() que muestre por pantalla el nombre y la edad del perro.
+6. En la clase Principal, crea dos objetos de tipo Perro utilizando el constructor:
+   - Primer perro: Toby, 5 años.
+   - Segundo perro: Luna, 3 años.
+7. Llama al método mostrarInformacion() de cada objeto para mostrar sus datos.
+
+Resultado esperado en pantalla:
+PRIMER PERRO
+Nombre: Toby
+Edad: 5
+
+SEGUNDO PERRO
+Nombre: Luna
+Edad: 3
