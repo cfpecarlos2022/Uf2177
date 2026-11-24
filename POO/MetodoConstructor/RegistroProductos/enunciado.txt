@@ -1,0 +1,28 @@
+Ejemplo práctico: Clase Producto en Java con Constructor, this y Scanner
+Vamos a crear un programa en Java que permita registrar productos introduciendo sus datos por teclado.
+
+El proyecto estará formado por dos clases: Producto y Principal.
+
+SALIDA DE TEXTO:
+
+Entrada por teclado
+REGISTRO DEL PRIMER PRODUCTO
+Introduce el nombre: Teclado
+Introduce la cantidad: 15
+
+REGISTRO DEL SEGUNDO PRODUCTO
+Introduce el nombre: Ratón
+Introduce la cantidad: 20
+
+
+
+Resultado del programa
+LISTADO DE PRODUCTOS
+
+PRIMER PRODUCTO
+Nombre del producto: Teclado
+Cantidad: 15
+
+SEGUNDO PRODUCTO
+Nombre del producto: Ratón
+Cantidad: 20
