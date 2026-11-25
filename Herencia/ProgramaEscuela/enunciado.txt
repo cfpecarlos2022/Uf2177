@@ -1,0 +1,42 @@
+## **Ejercicio 1. Persona y Alumno**
+
+Crea un proyecto Java en NetBeans que permita trabajar con la herencia entre dos clases.
+
+
+
+**Enunciado:**
+
+
+
+Crea dos clases:
+
+1. `Persona`: será la clase padre.
+2. `Alumno`: será la clase hija.
+
+La clase `Persona` tendrá los siguientes atributos:
+
+- nombre.
+- apellidos.
+
+También tendrá un método llamado `mostrarDatos()` que muestre el nombre y los apellidos.
+
+
+
+La clase `Alumno` heredará de `Persona` y tendrá un atributo propio:
+
+
+
+\- curso.
+
+
+
+Además, tendrá un método llamado `mostrarCurso()`.
+
+
+
+Desde la clase `Principal`:
+
+1. Crea un objeto de tipo `Alumno`.
+2. Asigna un nombre y unos apellidos.
+3. Asigna un curso.
+4. Ejecuta los métodos correspondientes.
