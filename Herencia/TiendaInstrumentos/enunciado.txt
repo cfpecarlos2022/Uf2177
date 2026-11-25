@@ -1,0 +1,21 @@
+Ejercicio práctico: Herencia y sobrescritura de métodos en Java
+Enunciado:
+
+Crea un proyecto Java en NetBeans que permita representar el funcionamiento de un instrumento musical utilizando programación orientada a objetos.
+
+El programa estará formado por tres clases: Instrumento, Guitarra y Principal.
+
+Requisitos del ejercicio:
+1. Crea una clase llamada Instrumento.
+2. Dentro de ella, crea un método llamado tocar() que muestre por pantalla:
+   
+   El instrumento está sonando
+3. Crea una segunda clase llamada Guitarra que herede de Instrumento utilizando extends.
+4. Dentro de la clase Guitarra, sobrescribe el método tocar() utilizando la anotación @Override.
+5. El método sobrescrito deberá mostrar por pantalla:
+   
+   La guitarra está tocando una melodía
+6. Crea una clase llamada Principal con el método main.
+7. Dentro del método main, crea un objeto de tipo Guitarra y llama al método tocar().
+Resultado esperado por pantalla:
+La guitarra está tocando una melodía
