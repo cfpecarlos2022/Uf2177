@@ -1,0 +1,6 @@
+Ejercicio práctico: Polimorfismo en Java – Medios de transporte
+Enunciado:
+
+Crea un proyecto Java en NetBeans que permita representar diferentes medios de transporte utilizando los conceptos de herencia y polimorfismo.
+
+El programa estará formado por tres clases: Transporte, Coche y Principal.
