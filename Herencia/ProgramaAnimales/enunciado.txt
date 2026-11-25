@@ -1,0 +1,55 @@
+Ejercicio práctico: Herencia en Java – Animales
+Enunciado
+Crea un proyecto Java en NetBeans que permita gestionar información básica de animales utilizando la herencia en Programación Orientada a Objetos (POO).
+
+El proyecto estará formado por cuatro clases:
+1. Animal: será la clase padre.
+2. Perro: será una clase hija que heredará de Animal.
+3. Gato: será otra clase hija que heredará de Animal.
+4. Principal: contendrá el método main() y permitirá ejecutar el programa.
+1. Clase Animal (clase padre)
+
+Crea una clase llamada Animal con los siguientes atributos:
+- nombre (String).
+- edad (int).
+Añade un método llamado mostrarInformacion() que muestre el nombre y la edad del animal.
+
+2. Clase Perro (clase hija)
+
+Crea una clase llamada Perro que herede de Animal.
+
+Debe incorporar:
+- Un atributo propio llamado raza (String).
+- Un método llamado ladrar() que muestre el mensaje: "El perro está ladrando".
+3. Clase Gato (clase hija)
+
+Crea una clase llamada Gato que herede de Animal.
+
+Debe incorporar:
+- Un atributo propio llamado color (String).
+- Un método llamado maullar() que muestre el mensaje: "El gato está maullando".
+4. Clase Principal
+
+Desde la clase Principal:
+1. Crea un objeto de tipo Perro.
+2. Asigna valores a sus atributos heredados y propios.
+3. Ejecuta los métodos correspondientes.
+4. Crea un objeto de tipo Gato.
+5. Asigna valores a sus atributos heredados y propios.
+6. Ejecuta los métodos correspondientes.
+Importante: no utilices Scanner. Los valores de los atributos deben asignarse directamente en el código.
+
+Salida esperada en consola
+INFORMACIÓN DEL PERRO
+---------------------
+Nombre: Toby
+Edad: 5
+Raza: Labrador
+El perro está ladrando
+
+INFORMACIÓN DEL GATO
+--------------------
+Nombre: Garfield
+Edad: 3
+Color: Naranja
+El gato está maullando
